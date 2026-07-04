@@ -9,7 +9,6 @@ A weather application built with **HTML, CSS, and JavaScript** that fetches real
 - ☁️ Show weather condition
 - 💧 Display humidity
 - 🌬️ Display wind speed
-- 😀 Dynamic weather emoji
 - ❌ Error handling for invalid city names
 - ⌨️ Press **Enter** to search
 
@@ -34,7 +33,6 @@ A weather application built with **HTML, CSS, and JavaScript** that fetches real
 - Working with REST APIs
 - Fetch API
 - JSON Data
-- Async Programming
 - DOM Manipulation
 - Error Handling
 - User Experience (UX) Improvements

@@ -37,13 +37,6 @@ A weather application built with **HTML, CSS, and JavaScript** that fetches real
 - Error Handling
 - User Experience (UX) Improvements
 
-## 🔮 Future Improvements
-
-- 🌙 Dark Mode
-- 📍 Current Location Weather
-- ⏳ Loading Animation
-- 📱 Improved Responsive Design
-
 ## 👨‍💻 Author
 
 **Shin Min Thant**
